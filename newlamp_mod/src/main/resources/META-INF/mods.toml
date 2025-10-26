@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="newlamp"
+version="1.0.0"
+displayName="New Lamp Mod"
+description="Adds indestructible lamps that can be controlled with commands"
+authors="TestMod"
+
+[[dependencies.newlamp]]
+modId="forge"
+mandatory=true
+versionRange="[40,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.newlamp]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.2,1.20)"
+ordering="NONE"
+side="BOTH"
