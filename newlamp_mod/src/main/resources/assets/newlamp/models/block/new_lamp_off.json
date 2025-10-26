@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "newlamp:block/new_lamp_off"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "newlamp:block/new_lamp_off"
+    },
+    "lit=true": {
+      "model": "newlamp:block/new_lamp_on"
+    }
+  }
+}
